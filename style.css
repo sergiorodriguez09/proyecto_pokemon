@@ -1,12 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Scheherazade+New&display=swap');
   
   body {
-    background: blue
+    background: rgb(126, 126, 179)
   }
-  
+
+
   h1 {
     font-family: "Scheherazade";
-    color: green;
+    color: rgb(39, 79, 126);
     font-size: 7rem;
     text-align: center;
   }
@@ -15,7 +16,7 @@
     width: 80%;
     margin: 0 auto;
     min-width: 500px;
-    color: #09a9e4;
+    color: #000000;
     font-weight: normal;
     font-size: 2rem;
     text-align: center;
@@ -37,6 +38,7 @@
     display: flex;
     flex-direction: column;
     text-align: center;
+    background: lightcoral;
   }
   
   img {
